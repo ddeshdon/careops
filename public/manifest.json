@@ -1,0 +1,17 @@
+{
+  "name": "CareOps",
+  "short_name": "CareOps",
+  "description": "Proof-of-care for home-based elderly care",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#147a4f",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
